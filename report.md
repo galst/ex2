@@ -33,7 +33,7 @@
 לאחר מכן כתבנו את התוצאות לקובץ csv אותו העלנו לאתר.
 
 קישור לתוצאות ב-github: 
-https://github.com/galst/ex1/blob/master/zeroTry.csv
+https://github.com/galst/ex2/blob/master/submissions/zeroTry.csv
     
 צילום מסך מאתר Kaggle:
 ![Image of tests](/img/6.png)
@@ -55,7 +55,7 @@ https://github.com/galst/ex1/blob/master/zeroTry.csv
 שלהם גדול מ-2.5 סיכויים להינצל קטן יותר וזהו גורם שהשפיע על קבלת ההחלטה בעץ
 
 קישור לתוצאות ב-github: 
-https://github.com/galst/ex1/blob/master/zeroTry.csv
+https://github.com/galst/ex2/blob/master/submissions/firstTry.csv
     
 צילום מסך מאתר Kaggle:
 ![Image of tests](/img/9.png)
@@ -73,8 +73,8 @@ https://github.com/galst/ex1/blob/master/zeroTry.csv
 התוצאה הטובה ביותר התקבלה כאשר מספר העצים היה 2000.
 
 קישור לתוצאות ב-github: 
-https://github.com/galst/ex1/blob/master/zeroTry.csv
-    
+https://github.com/galst/ex2/blob/master/submissions/secondTry.csv
+
 צילום מסך מאתר Kaggle:
 ![Image of tests](/img/11.png)
 
