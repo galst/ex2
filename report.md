@@ -73,9 +73,12 @@ https://github.com/galst/ex2/blob/master/submissions/firstTry.csv
 התוצאה הטובה ביותר התקבלה כאשר מספר העצים היה 2000.
 
 קישור לתוצאות ב-github: 
+
 https://github.com/galst/ex2/blob/master/submissions/secondTry.csv
 
+
 צילום מסך מאתר Kaggle:
+
 ![Image of tests](/img/11.png)
 
 
