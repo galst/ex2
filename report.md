@@ -44,11 +44,12 @@
 לאחר החקר שעשינו הגדרנו פעם אחת שכל הילדים ניצלים ופעם שניה הגדנו שבכל הנשים ניצלים מלבד הנשים שיושבות במחלקה 3 והכרטיס שקנו היה יקר מ-20.
 לאחר מכן כתבנו את התוצאות לקובץ csv אותו העלנו לאתר.
 
-קישור לתוצאות ב-github: 
+#### קישור לתוצאות ב-github: 
 
 https://github.com/galst/ex2/blob/master/submissions/zeroTry.csv
-    
-צילום מסך מאתר Kaggle:
+
+#### צילום מסך מאתר Kaggle:
+
 
 ![Image of tests](/img/6.png)
 
@@ -69,11 +70,11 @@ https://github.com/galst/ex2/blob/master/submissions/zeroTry.csv
 ניתן להבחין כי נוסעים שה - SibSp
 שלהם גדול מ-2.5 סיכויים להינצל קטן יותר וזהו גורם שהשפיע על קבלת ההחלטה בעץ
 
-קישור לתוצאות ב-github: 
+#### קישור לתוצאות ב-github: 
 
 https://github.com/galst/ex2/blob/master/submissions/firstTry.csv
     
-צילום מסך מאתר Kaggle:
+#### צילום מסך מאתר Kaggle:
 
 ![Image of tests](/img/9.png)
 
@@ -90,12 +91,12 @@ https://github.com/galst/ex2/blob/master/submissions/firstTry.csv
 בבדיקה הזאת יצרנו רשימה של ארבעה מודלים. כל מודל מורכב ממספר עצים שונה ביער. עשינו זאת ע״י יצירת מפה של ארבע ערכים שונים של ntree ושימוש בלולאה על מנת לעבור על כל אחד מהערכים הנ״ל וליצור עבורו מודל.
 התוצאה הטובה ביותר התקבלה כאשר מספר העצים היה 2000.
 
-קישור לתוצאות ב-github: 
+#### קישור לתוצאות ב-github: 
 
 https://github.com/galst/ex2/blob/master/submissions/secondTry.csv
 
 
-צילום מסך מאתר Kaggle:
+#### צילום מסך מאתר Kaggle:
 
 ![Image of tests](/img/11.png)
 
